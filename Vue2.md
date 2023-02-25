@@ -25,7 +25,7 @@ new Vue({
 
 ### 生命周期
 
-<img src="/Users/ljy/Desktop/H5C3_notes/Vue生命周期.jpeg" alt="Vue生命周期" style="zoom:70%;" />
+<img src="./Vue生命周期.jpeg" alt="Vue生命周期" style="zoom:70%;" />
 
 ## 2.模版语法
 

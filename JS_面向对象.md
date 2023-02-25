@@ -237,13 +237,13 @@ console.log(ldh.sex);//不行
 
 ### 🌟 构造函数｜实例｜原型对象 的关系
 
-<img src="/Users/ljy/Desktop/H5C3_notes/构造函数｜实例｜原型对象关系.jpeg" alt="构造函数｜实例｜原型对象关系" style="zoom:50%;" />
+<img src="./构造函数｜实例｜原型对象关系.jpeg" alt="构造函数｜实例｜原型对象关系" style="zoom:50%;" />
 
 
 
 ### 🌟 原型链
 
-<img src="/Users/ljy/Desktop/H5C3_notes/原型链.jpeg" alt="原型链" style="zoom:60%;" />
+<img src="./原型链.jpeg" alt="原型链" style="zoom:60%;" />
 
 
 
